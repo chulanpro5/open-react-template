@@ -28,15 +28,15 @@
 /* Buttons */
 .btn,
 .btn-sm {
-    @apply font-medium inline-flex items-center justify-center border border-transparent rounded-sm leading-snug transition duration-150 ease-in-out;
+    @apply font-medium inline-flex items-center justify-center border border-transparent rounded leading-snug transition duration-150 ease-in-out;
 }
 
 .btn {
-    @apply px-8 py-3;
+    @apply px-8 py-3 shadow-lg;
 }
 
 .btn-sm {
-    @apply px-4 py-2;
+    @apply px-4 py-2 shadow;
 }
 
 /* Forms */
@@ -46,7 +46,7 @@
 .form-select,
 .form-checkbox,
 .form-radio {
-    @apply bg-transparent border border-gray-700 focus:border-gray-500;
+    @apply bg-white border border-gray-300 focus:border-gray-500;
 }
 
 .form-input,
@@ -54,7 +54,7 @@
 .form-multiselect,
 .form-select,
 .form-checkbox {
-    @apply rounded-sm;
+    @apply rounded;
 }
 
 .form-input,
@@ -75,5 +75,5 @@
 
 .form-checkbox,
 .form-radio {
-    @apply text-purple-600;
+    @apply text-gray-800 rounded-sm;
 }
