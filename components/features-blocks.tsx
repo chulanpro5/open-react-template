@@ -31,8 +31,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Chứng nhận OCOP</h4>
-              <p className="text-gray-600 text-center">Tư vấn và hỗ trợ đăng ký chứng nhận OCOP.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1 text-center">Tư vấn và hỗ trợ đăng ký chứng nhận OCOP</h4>
+              <p className="text-gray-600 text-center">Liên quan đến các vấn đề tư vấn bộ tiêu chí, quy trình đánh giá và hỗ trợ tạo hồ sơ để đánh giá sản phẩm.</p>
             </div>
 
             {/* 2nd item */}
@@ -47,8 +47,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Chất lượng sản phẩm 5 sao</h4>
-              <p className="text-gray-600 text-center">Tư vấn và hỗ trợ đăng ký chất lượng sản phẩm đạt 3 sao, 4 sao, 5 sao.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1 text-center">Tư vấn và hỗ trợ nâng cấp sản phẩm OCOP</h4>
+              <p className="text-gray-600 text-center">Hỗ trợ và tư vấn để đảm bảo đáp ứng các tiêu chí khắt khe nhằm nâng cấp sản phẩm đạt 3 sao trở lên.</p>
             </div>
 
             {/* 3rd item */}
@@ -64,8 +64,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Hỗ trợ quy trình</h4>
-              <p className="text-gray-600 text-center">Hỗ trợ liên quan đến vấn đề chất lượng, cải tiến, mở rộng quy mô.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1 text-center">Củng cố chất lượng, cải tiến quy trình</h4>
+              <p className="text-gray-600 text-center">Trực tiếp hỗ trợ khách hàng bằng cách thiết lập các bước cải tiến và lên kế hoạch thích hợp.</p>
             </div>
 
             {/* 4th item */}
@@ -81,8 +81,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Hỗ trợ triển khai</h4>
-              <p className="text-gray-600 text-center">Hỗ trợ tư vấn trọn gói thực hiện triển khai đạt chuẩn chứng nhân OCOP (cam kết tối thiểu đạt 3 sao).</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Hỗ trợ và tư vấn trọn gói</h4>
+              <p className="text-gray-600 text-center">Cam kết triển khai đạt chuẩn chứng nhận OCOP, bao gồm đăng ký đề án, xây dựng thương hiệu, quản trị chất lượng, cải tiến quy trình, với mục tiêu tối thiểu đạt 3 sao cho sản phẩm.</p>
             </div>
 
             {/* 5th item */}
@@ -97,8 +97,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Tư vấn đăng ký</h4>
-              <p className="text-gray-600 text-center">Tư vấn đăng ký chất lượng sản phẩm đạt 3 sao, 4 sao, 5 sao (Cam kết cao tối thiểu 3 sao về sản phẩm).</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Tư vấn và hỗ trợ đặc biệt</h4>
+              <p className="text-gray-600 text-center">Gói cam kết đạt 3 sao, thanh toán theo số lượng sản phẩm trong vòng 1 năm. Đền hợp đồng 50% nếu không thanh toán đúng hạn.</p>
             </div>
 
             {/* 6th item */}

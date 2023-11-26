@@ -14,86 +14,86 @@ export default function Footer() {
               <Logo />
             </div>
             <div className="text-sm text-gray-600">
-              <a href="#0" className="text-gray-600 hover:text-gray-900 hover:underline transition duration-150 ease-in-out">Terms</a> · <a href="#0" className="text-gray-600 hover:text-gray-900 hover:underline transition duration-150 ease-in-out">Privacy Policy</a>
+              <a href="#0" className="text-gray-600 hover:text-gray-900 hover:underline transition duration-150 ease-in-out">RISE - </a> <a href="#0" className="text-gray-600 hover:text-gray-900 hover:underline transition duration-150 ease-in-out">Nâng tầm phát triển OCOP</a>
             </div>
           </div>
 
-          {/* 2nd block
+          {/* 2nd block */}
           <div className="sm:col-span-6 md:col-span-3 lg:col-span-2">
-            <h6 className="text-gray-800 font-medium mb-2">Products</h6>
+            <h6 className="text-gray-800 font-medium mb-2">Dịch vụ</h6>
             <ul className="text-sm">
               <li className="mb-2">
-                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Web Studio</a>
+                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Tư vấn và hỗ trợ đăng ký chứng nhận OCOP</a>
               </li>
               <li className="mb-2">
-                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">DynamicBox Flex</a>
+                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Tư vấn và hỗ trợ nâng cấp sản phẩm OCOP</a>
               </li>
               <li className="mb-2">
-                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Programming Forms</a>
+                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Củng cố chất lượng, cải tiến quy trình</a>
               </li>
               <li className="mb-2">
-                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Integrations</a>
+                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Hỗ trợ và tư vấn trọn gói</a>
               </li>
               <li className="mb-2">
-                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Command-line</a>
+                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Tư vấn và hỗ trợ đặc biệt</a>
               </li>
             </ul>
-          </div> */}
+          </div>
 
           {/* 3rd block */}
           <div className="sm:col-span-6 md:col-span-3 lg:col-span-2">
-            <h6 className="text-gray-800 font-medium mb-2">Resources</h6>
+            <h6 className="text-gray-800 font-medium mb-2">Tìm hiểu thêm</h6>
             <ul className="text-sm">
               <li className="mb-2">
-                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Documentation</a>
+                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Tài liệu</a>
               </li>
               <li className="mb-2">
-                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Tutorials & Guides</a>
+                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Hướng dẫn</a>
               </li>
               <li className="mb-2">
-                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Blog</a>
+                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Tin tức</a>
               </li>
               <li className="mb-2">
-                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Support Center</a>
+                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Trung tâm hỗ trợ</a>
               </li>
               <li className="mb-2">
-                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Partners</a>
+                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Đối tác</a>
               </li>
             </ul>
           </div>
 
           {/* 4th block */}
           <div className="sm:col-span-6 md:col-span-3 lg:col-span-2">
-            <h6 className="text-gray-800 font-medium mb-2">Company</h6>
+            <h6 className="text-gray-800 font-medium mb-2">Công ty</h6>
             <ul className="text-sm">
               <li className="mb-2">
-                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Home</a>
+                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Trang chủ</a>
               </li>
               <li className="mb-2">
-                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">About us</a>
+                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Về chúng tôi</a>
               </li>
               <li className="mb-2">
-                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Company values</a>
+                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Giá trị công ty</a>
               </li>
               <li className="mb-2">
-                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Pricing</a>
+                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Tuyển dụng</a>
               </li>
               <li className="mb-2">
-                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Privacy Policy</a>
+                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Chính sách bảo mật</a>
               </li>
             </ul>
           </div>
 
           {/* 5th block */}
           <div className="sm:col-span-6 md:col-span-3 lg:col-span-3">
-            <h6 className="text-gray-800 font-medium mb-2">Subscribe</h6>
-            <p className="text-sm text-gray-600 mb-4">Get the latest news and articles to your inbox every month.</p>
+            <h6 className="text-gray-800 font-medium mb-2">Liên hệ ngay</h6>
+            <p className="text-sm text-gray-600 mb-4">Để lại email, chúng tôi sẽ liên hệ với bạn trong ngày.</p>
             <form>
               <div className="flex flex-wrap mb-4">
                 <div className="w-full">
                   <label className="block text-sm sr-only" htmlFor="newsletter">Email</label>
                   <div className="relative flex items-center max-w-xs">
-                    <input id="newsletter" type="email" className="form-input w-full text-gray-800 px-3 py-2 pr-12 text-sm" placeholder="Your email" required />
+                    <input id="newsletter" type="email" className="form-input w-full text-gray-800 px-3 py-2 pr-12 text-sm" placeholder="Email" required />
                     <button type="submit" className="absolute inset-0 left-auto" aria-label="Subscribe">
                       <span className="absolute inset-0 right-auto w-px -ml-px my-2 bg-gray-300" aria-hidden="true"></span>
                       <svg className="w-3 h-3 fill-current text-blue-600 mx-3 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
@@ -122,13 +122,13 @@ export default function Footer() {
                 </svg>
               </a>
             </li>
-            <li className="ml-4">
-              <a href="#0" className="flex justify-center items-center text-gray-600 hover:text-gray-900 bg-white hover:bg-white-100 rounded-full shadow transition duration-150 ease-in-out" aria-label="Github">
+            {/* <li className="ml-4"> */}
+              {/* <a href="#0" className="flex justify-center items-center text-gray-600 hover:text-gray-900 bg-white hover:bg-white-100 rounded-full shadow transition duration-150 ease-in-out" aria-label="Github">
                 <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
                   <path d="M16 8.2c-4.4 0-8 3.6-8 8 0 3.5 2.3 6.5 5.5 7.6.4.1.5-.2.5-.4V22c-2.2.5-2.7-1-2.7-1-.4-.9-.9-1.2-.9-1.2-.7-.5.1-.5.1-.5.8.1 1.2.8 1.2.8.7 1.3 1.9.9 2.3.7.1-.5.3-.9.5-1.1-1.8-.2-3.6-.9-3.6-4 0-.9.3-1.6.8-2.1-.1-.2-.4-1 .1-2.1 0 0 .7-.2 2.2.8.6-.2 1.3-.3 2-.3s1.4.1 2 .3c1.5-1 2.2-.8 2.2-.8.4 1.1.2 1.9.1 2.1.5.6.8 1.3.8 2.1 0 3.1-1.9 3.7-3.7 3.9.3.4.6.9.6 1.6v2.2c0 .2.1.5.6.4 3.2-1.1 5.5-4.1 5.5-7.6-.1-4.4-3.7-8-8.1-8z" />
                 </svg>
-              </a>
-            </li>
+              </a> */}
+            {/* </li> */}
             <li className="ml-4">
               <a href="#0" className="flex justify-center items-center text-gray-600 hover:text-gray-900 bg-white hover:bg-white-100 rounded-full shadow transition duration-150 ease-in-out" aria-label="Facebook">
                 <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
@@ -139,7 +139,7 @@ export default function Footer() {
           </ul>
 
           {/* Copyrights note */}
-          <div className="text-sm text-gray-600 mr-4">&copy; Cruip.com. All rights reserved.</div>
+          <div className="text-sm text-gray-600 mr-4">Bản quyền 2023 &copy; OCOP's RISE</div>
 
         </div>
 

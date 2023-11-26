@@ -32,8 +32,9 @@ export default function Features() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h1 className="h2 mb-4">Tổng quan về OCOP'S RISE</h1>
-            <p className="text-xl text-gray-600">Cung cấp các dịch vụ tư vấn, hỗ trợ xây dựng thương hiệu, quản trị chất lượng và phát triển thị trường dành cho các OCOP.</p>
+            <h1 className="h2 mb-4">VỀ OCOP’S RISE</h1>
+            <p className="text-xl text-gray-600">Công ty TNHH Tư vấn và Phát triển OCOP - OCOP’s RISE với đội ngũ những chuyên gia hàng đầu trong lĩnh vực công nghệ, nông nghiệp hiện đại, mong muốn đem đến những giá trị thực cho khách hàng, hỗ trợ tuyệt đối cho người nông dân.
+Công ty cung cấp các dịch vụ tư vấn, hỗ trợ về mọi mặt liên quan đến việc đăng ký, xây dựng thương hiệu, quản trị chất lượng và phát triển thị trường dành cho các OCOP.</p>
           </div>
 
           {/* Section content */}
@@ -114,8 +115,8 @@ export default function Features() {
                     unmount={false}                     
                   >
                     <div className="relative inline-flex flex-col">
-                      <Image className="md:max-w-none mx-auto rounded" src={FeaturesBg} width={500} height="462" alt="Features bg" />
-                      <Image className="md:max-w-none absolute w-full left-0 transform animate-float" src={FeaturesElement} width={500} height="44" alt="Element" style={{ top: '30%' }} />
+                      <Image className="md:max-w-none mx-auto rounded" src={FeaturesBg} width={900} height="462" alt="Features bg" />
+                      {/* <Image className="md:max-w-none absolute w-full left-0 transform animate-float" src={FeaturesElement} width={500} height="44" alt="Element" style={{ top: '30%' }} /> */}
                     </div>
                   </Transition>
                   {/* Item 2 */}
@@ -133,8 +134,8 @@ export default function Features() {
                     unmount={false}                     
                   >
                     <div className="relative inline-flex flex-col">
-                      <Image className="md:max-w-none mx-auto rounded" src={FeaturesBg} width={500} height="462" alt="Features bg" />
-                      <Image className="md:max-w-none absolute w-full left-0 transform animate-float" src={FeaturesElement} width={500} height="44" alt="Element" style={{ top: '30%' }} />
+                      <Image className="md:max-w-none mx-auto rounded" src={FeaturesBg} width={900} height="462" alt="Features bg" />
+                      {/* <Image className="md:max-w-none absolute w-full left-0 transform animate-float" src={FeaturesElement} width={500} height="44" alt="Element" style={{ top: '30%' }} /> */}
                     </div>
                   </Transition>
                   {/* Item 3 */}
