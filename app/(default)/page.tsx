@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Home - Simple',
-  description: 'Page description',
+  title: 'OCOP\'S RISE',
+  description: 'GIẢI PHÁP TOÀN DIỆN - NÂNG TẦM PHÁT TRIỂN OCOP',
 }
 
 import Hero from '@/components/hero'
