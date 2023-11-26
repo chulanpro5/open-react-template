@@ -82,7 +82,7 @@ export default function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Hỗ trợ và tư vấn trọn gói</h4>
-              <p className="text-gray-600 text-center">Cam kết triển khai đạt chuẩn chứng nhận OCOP, bao gồm đăng ký đề án, xây dựng thương hiệu, quản trị chất lượng, cải tiến quy trình, với mục tiêu tối thiểu đạt 3 sao cho sản phẩm.</p>
+              <p className="text-gray-600 text-center">Cam kết hỗ trợ tư vấn về mọi mặt, triển khai đạt chuẩn chứng nhận OCOP</p>
             </div>
 
             {/* 5th item */}
@@ -98,7 +98,7 @@ export default function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Tư vấn và hỗ trợ đặc biệt</h4>
-              <p className="text-gray-600 text-center">Gói cam kết đạt 3 sao, thanh toán theo số lượng sản phẩm trong vòng 1 năm. Đền hợp đồng 50% nếu không thanh toán đúng hạn.<br/><br/></p>
+              <p className="text-gray-600 text-center">Gói cam kết đạt 3 sao, thanh toán theo số lượng sản phẩm trong vòng 1 năm.<br/></p>
             </div>
 
             {/* 6th item */}
@@ -113,7 +113,7 @@ export default function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Tìm hiểu thêm</h4>
-              <p className="text-gray-600 text-center"><br/><br/><br/><br/><br/></p>
+              <p className="text-gray-600 text-center">Quan tâm đến dịch vụ, liên hệ ngay.<br/><br/></p>
             </div>
 
           </div>
