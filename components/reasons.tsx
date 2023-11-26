@@ -112,7 +112,7 @@ Công ty cung cấp các dịch vụ tư vấn, hỗ trợ về mọi mặt liê
                         </div>
 
                         {/* Tabs items */}
-                        <div className=" max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-8 md:mt-6 ">
+                        <div className=" max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-8 md:mt-0 ">
                             <div className="transition-all">
                                 <div className="relative flex flex-col text-center lg:text-right" data-aos="zoom-y-out" ref={tabs}>
                                     {/* Item 1 */}
