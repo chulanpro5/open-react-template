@@ -43,7 +43,7 @@ Công ty cung cấp các dịch vụ tư vấn, hỗ trợ về mọi mặt liê
 
             {/* Content */}
             <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6 md:mt-6" data-aos="fade-right">
-              <div className="md:pr-4 lg:pr-12 xl:pr-16 mb-8">
+              <div className="md:pr-4 lg:pr-12 xl:pr-16 mb-8 text-center">
                 <h3 className="h3 mb-3">NÂNG TẦM PHÁT TRIỂN THỊ TRƯỜNG OCOP</h3>
                 {/* <p className="text-xl text-gray-600">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa.</p> */}
               </div>
