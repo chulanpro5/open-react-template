@@ -34,6 +34,7 @@ export default function Features() {
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <h1 className="h2 mb-4">VỀ OCOP’S RISE</h1>
             <p className="text-xl text-gray-600">Công ty TNHH Tư vấn và Phát triển OCOP - OCOP’s RISE với đội ngũ những chuyên gia hàng đầu trong lĩnh vực công nghệ, nông nghiệp hiện đại, mong muốn đem đến những giá trị thực cho khách hàng, hỗ trợ tuyệt đối cho người nông dân.
+            <br/> <br/>
 Công ty cung cấp các dịch vụ tư vấn, hỗ trợ về mọi mặt liên quan đến việc đăng ký, xây dựng thương hiệu, quản trị chất lượng và phát triển thị trường dành cho các OCOP.</p>
           </div>
 

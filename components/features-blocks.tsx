@@ -98,7 +98,7 @@ export default function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Tư vấn và hỗ trợ đặc biệt</h4>
-              <p className="text-gray-600 text-center">Gói cam kết đạt 3 sao, thanh toán theo số lượng sản phẩm trong vòng 1 năm. Đền hợp đồng 50% nếu không thanh toán đúng hạn.</p>
+              <p className="text-gray-600 text-center">Gói cam kết đạt 3 sao, thanh toán theo số lượng sản phẩm trong vòng 1 năm. Đền hợp đồng 50% nếu không thanh toán đúng hạn.<br/><br/></p>
             </div>
 
             {/* 6th item */}
@@ -112,8 +112,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Chưa nghĩ ra</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Tìm hiểu thêm</h4>
+              <p className="text-gray-600 text-center"><br/><br/><br/><br/><br/></p>
             </div>
 
           </div>
