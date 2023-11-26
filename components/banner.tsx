@@ -11,17 +11,24 @@ export default function Banner() {
   };
 
   return (
-    <div className="fixed bottom-0 right-0 w-full md:bottom-8 md:right-12 md:w-auto z-50">
-      <div className="fixed bottom-0 right-0 w-full md:bottom-8 md:right-12 md:w-auto z-50">
-        <a href="tel:+84898359676" className="block">
-          <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Icon_of_Zalo.svg/640px-Icon_of_Zalo.svg.png"
-            alt="Call us"
-            style={imageStyle}
-          />
-        </a>
-      </div>
-    </div>
+<div className="fixed bottom-0 right-0 md:bottom-8 md:right-12 z-50">
+  <a href="tel:+84898359676" className="block">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Icon_of_Zalo.svg/640px-Icon_of_Zalo.svg.png"
+      alt="Call us"
+      style={{
+        width: '50px', // Set the width as needed
+        position: 'fixed',
+        bottom: '0',
+        right: '0',
+        marginRight: '12px', // Adjust this value as per your layout
+        marginBottom: '8px', // Adjust this value as per your layout
+        zIndex: '50',
+      }}
+    />
+  </a>
+</div>
+
   );
 }
 

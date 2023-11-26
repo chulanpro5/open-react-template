@@ -4,7 +4,7 @@ import LogoImage from '../../public/images/logo.svg' // Point to the SVG file in
 export default function Logo() {
   return (
     <Link href="/" className="block" aria-label="Cruip">
-      <svg width="100" zoomAndPan="magnify" viewBox="0 0 375 374.999991" height="100" preserveAspectRatio="xMidYMid meet" version="1.0" xmlns="http://www.w3.org/2000/svg">
+      <svg width="100" zoomAndPan="magnify" viewBox="0 0 375 374.999991" height="80" preserveAspectRatio="xMidYMid meet" version="1.0" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <g/>
     <clipPath id="e9eda3c9b3">
