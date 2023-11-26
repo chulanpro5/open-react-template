@@ -70,7 +70,7 @@ Công ty cung cấp các dịch vụ tư vấn, hỗ trợ về mọi mặt liê
                                 >
                                     <div>
                                         <div className="font-bold leading-snug tracking-tight mb-1">Lợi ích của khách hàng</div>
-                                        <div className="text-gray-600">Cung cấp giải pháp tư vấn, hỗ trợ toàn diện, </div>
+                                        <div className="text-gray-600">Cung cấp giải pháp tư vấn, hỗ trợ toàn diện.</div>
                                     </div>
                                     <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                                     <svg width="800px" height="800px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -85,7 +85,7 @@ Công ty cung cấp các dịch vụ tư vấn, hỗ trợ về mọi mặt liê
                                 >
                                     <div>
                                         <div className="font-bold leading-snug tracking-tight mb-1">Chuyên nghiệp – Uy tín</div>
-                                        <div className="text-gray-600">Đội ngũ tư vấn chuyên nghiệp, có chuyên môn cao, am hiểu về các chính sách và pháp luật hiện hành. </div>
+                                        <div className="text-gray-600">Đội ngũ tư vấn chuyên nghiệp, có chuyên môn cao, am hiểu về các chính sách, quy định thực hiện OCOP hiện hành. </div>
                                     </div>
                                     <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                                         <svg width="800px" height="800px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -130,7 +130,7 @@ Công ty cung cấp các dịch vụ tư vấn, hỗ trợ về mọi mặt liê
                                         unmount={false}
                                     >
                                         <div className="relative inline-flex flex-col">
-                                            <Image className="md:max-w-none mx-auto rounded" src={ReasonesBg} width={700} height="462" alt="Features bg" />
+                                            <Image className="md:max-w-none mx-auto rounded" src={ReasonesBg} width={600} height="462" alt="Features bg" />
                                             {/* <Image className="md:max-w-none absolute w-full left-0 transform animate-float" src={FeaturesElement} width={500} height="44" alt="Element" style={{ top: '30%' }} /> */}
                                         </div>
                                     </Transition>

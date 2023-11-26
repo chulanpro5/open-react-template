@@ -1,4 +1,4 @@
-import Logo from './logo'
+import LogoFooter from './logo-footer'
 
 export default function Footer() {
   return (
@@ -11,7 +11,7 @@ export default function Footer() {
           {/* 1st block */}
           <div className="sm:col-span-12 lg:col-span-3">
             <div className="mb-2">
-              <Logo />
+              <LogoFooter />
             </div>
             <div className="text-sm text-gray-600">
               <a href="#0" className="text-gray-600 hover:text-gray-900 hover:underline transition duration-150 ease-in-out">RISE - </a> <a href="#0" className="text-gray-600 hover:text-gray-900 hover:underline transition duration-150 ease-in-out">Giải pháp toàn diện - nâng tầm phát triển OCOP</a>
@@ -87,7 +87,7 @@ export default function Footer() {
           {/* 5th block */}
           <div className="sm:col-span-6 md:col-span-3 lg:col-span-3">
             <h6 className="text-gray-800 font-medium mb-2">Liên hệ ngay</h6>
-            <p className="text-sm text-gray-600 mb-4">Để lại email, chúng tôi sẽ liên hệ với bạn trong ngày.</p>
+            <p className="text-sm text-gray-600 mb-4">Để lại email hoặc số điện thoại, chúng tôi sẽ liên hệ với bạn trong ngày.</p>
             <form>
               <div className="flex flex-wrap mb-4">
                 <div className="w-full">

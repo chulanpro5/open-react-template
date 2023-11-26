@@ -12,7 +12,7 @@ export default function FeaturesBlocks() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">DỊCH VỤ CUNG CẤP</h2>
-            <p className="text-xl text-gray-600">Công ty TNHH OCOP'S RISE cung cấp đến quý khách hàng dịch vụ chuyên nghiệp, trọn gói.</p>
+            <p className="text-xl text-gray-600">Công ty TNHH OCOP'S RISE cung cấp đến quý khách hàng dịch vụ hỗ trợ, tư vấn OCOP chuyên nghiệp, toàn diện.</p>
           </div>
 
           {/* Items */}
